@@ -1,11 +1,6 @@
-🏦 Banking System in C++ (Full Project Journey)
+# 🏦 Bank Management System (C++)
 
-
-
-
-
-
-
+---
 
 📌 Overview
 
